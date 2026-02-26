@@ -1,0 +1,80 @@
+{
+  "1465737050018812011": {
+    "hookOp": true,
+    "explore_funcs": false,
+    "spyexeconly": true,
+    "no_string_limit": true,
+    "minifier": false,
+    "comments": true,
+    "ui_detection": true,
+    "notify_scamblox": true,
+    "constant_collection": true,
+    "duplicate_searcher": true,
+    "neverNester": true
+  },
+  "1417488306756784148": {
+    "hookOp": false,
+    "explore_funcs": true,
+    "spyexeconly": false,
+    "no_string_limit": false,
+    "minifier": false,
+    "comments": true,
+    "ui_detection": false,
+    "notify_scamblox": false,
+    "constant_collection": false,
+    "duplicate_searcher": false,
+    "neverNester": false
+  },
+  "1413950335394775091": {
+    "hookOp": false,
+    "explore_funcs": true,
+    "spyexeconly": false,
+    "no_string_limit": false,
+    "minifier": false,
+    "comments": true,
+    "ui_detection": false,
+    "notify_scamblox": false,
+    "constant_collection": false,
+    "duplicate_searcher": false,
+    "neverNester": false
+  },
+  "1135578451869433906": {
+    "hookOp": false,
+    "explore_funcs": true,
+    "spyexeconly": false,
+    "no_string_limit": false,
+    "minifier": false,
+    "comments": true,
+    "ui_detection": false,
+    "notify_scamblox": false,
+    "constant_collection": false,
+    "duplicate_searcher": false,
+    "neverNester": false
+  },
+  "1115887046167363636": {
+    "hookOp": false,
+    "explore_funcs": true,
+    "spyexeconly": false,
+    "no_string_limit": false,
+    "minifier": false,
+    "comments": true,
+    "ui_detection": false,
+    "notify_scamblox": false,
+    "constant_collection": false,
+    "duplicate_searcher": false,
+    "neverNester": false
+  },
+  "1378770975839096937": {
+    "hookOp": false,
+    "explore_funcs": true,
+    "spyexeconly": false,
+    "no_string_limit": false,
+    "minifier": false,
+    "comments": true,
+    "ui_detection": false,
+    "notify_scamblox": false,
+    "constant_collection": false,
+    "duplicate_searcher": false,
+    "neverNester": false
+  }
+}
