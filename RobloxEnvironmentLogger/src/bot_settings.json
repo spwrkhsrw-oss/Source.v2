@@ -1,0 +1,15 @@
+{
+  "1465737050018812011": {
+    "hookOp": true,
+    "explore_funcs": true,
+    "spyexeconly": true,
+    "no_string_limit": true,
+    "minifier": true,
+    "comments": true,
+    "ui_detection": true,
+    "notify_scamblox": true,
+    "constant_collection": true,
+    "duplicate_searcher": true,
+    "neverNester": true
+  }
+}
